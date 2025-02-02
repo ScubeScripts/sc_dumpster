@@ -11,7 +11,7 @@ We have made a few important changes to the script to make it better and more us
 
 > [ESX-Framework](https://github.com/esx-framework/esx-legacy)
 
-> [sc_progress](https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287) 
+> [sc_progress](https://github.com/ScubeScripts/sc_progress) 
 
 ## Installation
 Clone or download this repository

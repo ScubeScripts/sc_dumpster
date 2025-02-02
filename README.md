@@ -1,8 +1,11 @@
 # sc_dumpster
 
-Today I present you my small Dumpster Diving script. This script allows you to search dumpsters all over the map. The script runs on the latest ESX version and needs a few other dependencies to work.
+We can finally present you the new version of formerly sc_dumpster-diving now sc_dumpster
+We have made a few important changes to the script to make it better and more user-friendly
 
+# Preview:
 
+![Screenshot 2025-02-02 151707](https://github.com/user-attachments/assets/d497ad8b-1d4f-406e-b279-87673f8f8332)
 
 ## Dependencies 
 

@@ -4,7 +4,7 @@ lua54 'yes'
 
 name "sc_dumpster"
 author "Scube Scripts"
-version "2.0.0"
+version "2.0.1"
 description "A small script for searching garbage cans."
 
 server_scripts {

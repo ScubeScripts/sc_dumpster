@@ -5,7 +5,7 @@ ESX.RegisterUsableItem('wallet', function(source)
     local cash = math.random(20, 120)
     local chance = math.random(1, 2)
 
-    TriggerClientEvent("sc_progress:showNUI", source, 5000, "Wird durchsucht...")
+    TriggerClientEvent("sc_progress:showNUI", source, 5000, Translation[Config.Locale]['searching'])
     Wait(5000)
 
     if chance == 2 then

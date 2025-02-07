@@ -56,6 +56,7 @@ Translation = {
         ['error'] = 'Error',
         ['success'] = 'Success',
         ['info'] = 'Info',
+        ['searching'] = "Searching...",
     },
     ['de'] = {
         ['input'] = '~INPUT_CONTEXT~ Mülltonne durchsuchen',
@@ -71,6 +72,7 @@ Translation = {
         ['error'] = 'Fehler',
         ['success'] = 'Erfolg',
         ['info'] = 'Info',
+        ['searching'] = "Wird durchsucht...", 
     },
     
     ['fr'] = {
@@ -87,6 +89,7 @@ Translation = {
         ['error'] = 'Erreur',
         ['success'] = 'Succès',
         ['info'] = 'Info',
+        ['searching'] = "En train de fouiller...",
     },
     
     ['es'] = {
@@ -103,5 +106,6 @@ Translation = {
         ['error'] = 'Error',
         ['success'] = 'Éxito',
         ['info'] = 'Información',
+        ['searching'] = "Buscando...",
     },    
 }

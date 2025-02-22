@@ -1,7 +1,8 @@
 # sc_dumpster
 
-We can finally present you the new version of formerly sc_dumpster-diving now sc_dumpster
-We have made a few important changes to the script to make it better and more user-friendly
+> [!NOTE]
+> We can finally present you the new version of formerly sc_dumpster-diving now sc_dumpster.
+> We have made a few important changes to the script to make it better and more user-friendly
 
 # Preview:
 
